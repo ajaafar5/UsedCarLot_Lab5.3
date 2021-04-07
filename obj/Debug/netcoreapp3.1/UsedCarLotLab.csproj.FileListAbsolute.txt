@@ -1,0 +1,13 @@
+C:\Users\ajaafar2\dev\Week5\UsedCarLotLab\bin\Debug\netcoreapp3.1\UsedCarLotLab.exe
+C:\Users\ajaafar2\dev\Week5\UsedCarLotLab\bin\Debug\netcoreapp3.1\UsedCarLotLab.deps.json
+C:\Users\ajaafar2\dev\Week5\UsedCarLotLab\bin\Debug\netcoreapp3.1\UsedCarLotLab.runtimeconfig.json
+C:\Users\ajaafar2\dev\Week5\UsedCarLotLab\bin\Debug\netcoreapp3.1\UsedCarLotLab.runtimeconfig.dev.json
+C:\Users\ajaafar2\dev\Week5\UsedCarLotLab\bin\Debug\netcoreapp3.1\UsedCarLotLab.dll
+C:\Users\ajaafar2\dev\Week5\UsedCarLotLab\bin\Debug\netcoreapp3.1\UsedCarLotLab.pdb
+C:\Users\ajaafar2\dev\Week5\UsedCarLotLab\obj\Debug\netcoreapp3.1\UsedCarLotLab.csprojAssemblyReference.cache
+C:\Users\ajaafar2\dev\Week5\UsedCarLotLab\obj\Debug\netcoreapp3.1\UsedCarLotLab.AssemblyInfoInputs.cache
+C:\Users\ajaafar2\dev\Week5\UsedCarLotLab\obj\Debug\netcoreapp3.1\UsedCarLotLab.AssemblyInfo.cs
+C:\Users\ajaafar2\dev\Week5\UsedCarLotLab\obj\Debug\netcoreapp3.1\UsedCarLotLab.csproj.CoreCompileInputs.cache
+C:\Users\ajaafar2\dev\Week5\UsedCarLotLab\obj\Debug\netcoreapp3.1\UsedCarLotLab.dll
+C:\Users\ajaafar2\dev\Week5\UsedCarLotLab\obj\Debug\netcoreapp3.1\UsedCarLotLab.pdb
+C:\Users\ajaafar2\dev\Week5\UsedCarLotLab\obj\Debug\netcoreapp3.1\UsedCarLotLab.genruntimeconfig.cache
